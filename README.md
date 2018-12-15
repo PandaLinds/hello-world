@@ -1,2 +1,2 @@
 # hello-world
-first repository
+This is my first edit! Starting to get an idea how this website works.
